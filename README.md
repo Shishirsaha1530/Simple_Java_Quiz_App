@@ -1,9 +1,7 @@
 
 # Simple Java Quiz App
 
-This Java Quiz App has been built for SQA Learners who can particiapate in the SQA related quiz in this app. There are 2 modules in this app, one is for the Admin and another is for the Users. 
-
-
+This Java Quiz App has been built for SQA learners who can participate in the SQA-related quiz in this app. There are two modules in this app, one for the Admin and another for the users.
 
 
 ## Admin Features
