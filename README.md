@@ -23,6 +23,7 @@ This Java Quiz App has been built for SQA learners who can participate in the SQ
 - Student will need to input the answer.
 - After completing 10 questions, the system will show the mark and mark status.
 - After that, the system will the student to press on s to start the quiz again and q to quit from the system.
+- If the Student press on s and start the quiz again then the old mark will be reset and after completing second try, new mark will be shown by the system.
 - If the student press any other key except s or q then the system will ask the student to input the correct one.
 
 
