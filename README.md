@@ -1,7 +1,7 @@
 
 # Simple Java Quiz App
 
-This Java Quiz App has been built for SQA learners who can participate in the SQA-related quiz in this app. There are two modules in this app, one for the Admin and another for the users.
+This Java Quiz App has been built for SQA learners who can participate in the SQA-related quiz in this app. There are two modules in this app, one for the Admin and another for the Students.
 
 
 ## Admin Features
@@ -15,15 +15,15 @@ This Java Quiz App has been built for SQA learners who can participate in the SQ
 - Admin has to press s for adding more question and q for quitting from the system.
 
 
-## User Features
+## Student Features
 
-- User can login into the system using predefined username and password (username:salman, password:1234).
-- After successful login, the system will ask the user to press s to participate in the quiz.
-- User will get 10 questions randomly from the JSON Database.
-- User will need to input the answer.
+- Student can login into the system using predefined username and password (username:salman, password:1234).
+- After successful login, the system will ask the student to press s to participate in the quiz.
+- Student will get 10 questions randomly from the JSON Database.
+- Student will need to input the answer.
 - After completing 10 questions, the system will show the mark and mark status.
-- After that, the system will the user to press on s to start the quiz again and q to quit from the system.
-- If the user press any other key except s or q then the system will ask the user to input the correct one.
+- After that, the system will the student to press on s to start the quiz again and q to quit from the system.
+- If the student press any other key except s or q then the system will ask the student to input the correct one.
 
 
 
