@@ -1,0 +1,338 @@
+[
+    {
+        "answerKey": "4",
+        "Option 1": "Regression Testing",
+        "Option 2": "Sanity Testing",
+        "Question": "Which is not part of system testing?",
+        "Option 3": "Load Testing",
+        "Option 4": "Unit Testing"
+    },
+    {
+        "answerKey": "2",
+        "Option 1": "Confirmation testing",
+        "Option 2": "Breadth test and depth test",
+        "Question": "Which methodology is used to performed Maintenance testing?",
+        "Option 3": "Retesting",
+        "Option 4": "Sanity testing"
+    },
+    {
+        "answerKey": "4",
+        "Option 1": "Test Case",
+        "Option 2": "Requirements Traceability Matrix [RTM]",
+        "Question": "Which of the following is not part of the Test document?",
+        "Option 3": "Test strategy",
+        "Option 4": "Project Initiation Note [PIN]"
+    },
+    {
+        "answerKey": "1",
+        "Option 1": "Evaluating deliverable to find errors",
+        "Option 2": "Finding broken code",
+        "Question": "Which term is used to define testing?",
+        "Option 3": "A stage of all projects",
+        "Option 4": "None of the above"
+    },
+    {
+        "answerKey": "4",
+        "Option 1": "Testing Phase",
+        "Option 2": "Requirement Phase",
+        "Question": "Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?",
+        "Option 3": "Deployment phase",
+        "Option 4": "Testing closure"
+    },
+    {
+        "answerKey": "1",
+        "Option 1": "Structural testing",
+        "Option 2": "Error guessing technique",
+        "Question": "Which of the following testing is also known as white-box testing?",
+        "Option 3": "Design based testing",
+        "Option 4": "None of the above"
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "White box and black box testing",
+        "Option 2": "White-box testing",
+        "Question": "Which of the following testing is related to the boundary value analysis?",
+        "Option 3": "Black box testing",
+        "Option 4": "None of the above"
+    },
+    {
+        "answerKey": "4",
+        "Option 1": "Test design technique",
+        "Option 2": "Test level",
+        "Question": "Functional testing is a ------?",
+        "Option 3": "SDLC Model",
+        "Option 4": "Test type"
+    },
+    {
+        "answerKey": "4",
+        "Option 1": "Integration testing",
+        "Option 2": "Unit testing",
+        "Question": "What are the different levels of Testing?",
+        "Option 3": "System testing",
+        "Option 4": "All of the above"
+    },
+    {
+        "answerKey": "2",
+        "Option 1": "Testing Planning",
+        "Option 2": "Requirement Gathering",
+        "Question": "Which of the following is not a part of STLC (Software Testing Life Cycle)?",
+        "Option 3": "Test Design",
+        "Option 4": "Testing closure"
+    },
+    {
+        "answerKey": "2",
+        "Option 1": "Test type",
+        "Option 2": "Test Execution Level",
+        "Question": "Sanity testing is a ------?",
+        "Option 3": "Test Level",
+        "Option 4": "Test design technique"
+    },
+    {
+        "answerKey": "4",
+        "Option 1": "Statement coverage testing",
+        "Option 2": "Decision coverage testing",
+        "Question": "White box testing techniques are?",
+        "Option 3": "Data flow testing",
+        "Option 4": "All of the above"
+    },
+    {
+        "answerKey": "2",
+        "Option 1": "User's end",
+        "Option 2": "Developer's end",
+        "Question": "In which environment we can performed the Alpha testing?",
+        "Option 3": "User's and developer's end",
+        "Option 4": "None of the above"
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "Schedule",
+        "Option 2": "Risk",
+        "Question": "Which of the below is not a part of the Test Plan?",
+        "Option 3": "Incident reports",
+        "Option 4": "Entry and exit criteria"
+    },
+    {
+        "answerKey": "2",
+        "Option 1": "Design Errors",
+        "Option 2": "Interface Errors",
+        "Question": "What is the key objective of Integration testing?",
+        "Option 3": "Procedure Errors",
+        "Option 4": "None of the mentioned"
+    },
+    {
+        "answerKey": "1",
+        "Option 1": "Experience-based Test Design Technique",
+        "Option 2": "White Box Test Design Technique",
+        "Question": "Exploratory testing is a -----?",
+        "Option 3": "Black Box Test Design Technique",
+        "Option 4": "Grey Box Test Design Technique"
+    },
+    {
+        "answerKey": "4",
+        "Option 1": "After the software has been modified",
+        "Option 2": "As frequently as possible",
+        "Question": "What is the best time to perform Regression testing?",
+        "Option 3": "When the environment has been modified",
+        "Option 4": "Both option a & c"
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "Product is old",
+        "Option 2": "Developers are super",
+        "Question": "Does the customer get a 100% bug-free product?",
+        "Option 3": "The testing team is not good",
+        "Option 4": "All of the above"
+    },
+    {
+        "answerKey": "1",
+        "Option 1": "White-box testing",
+        "Option 2": "Black box testing",
+        "Question": "Cyclomatic complexity is?",
+        "Option 3": "Grey box testing",
+        "Option 4": "All of the above"
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "Function testing",
+        "Option 2": "System testing",
+        "Question": "Which of the following is not part of the Test type?",
+        "Option 3": "Statement testing",
+        "Option 4": "Database testing"
+    },
+    {
+        "answerKey": "4",
+        "Option 1": "Defect Report",
+        "Option 2": "Test Summary Report",
+        "Question": "Which Test Document is used to define the Exit Criteria of Testing?",
+        "Option 3": "Test Case",
+        "Option 4": "Test Plan"
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "White-box testing",
+        "Option 2": "Grey box testing",
+        "Question": "Which testing technique is used for usability testing?",
+        "Option 3": "Black Box testing",
+        "Option 4": "Combination of all"
+    },
+    {
+        "answerKey": "1",
+        "Option 1": "Big bang approach",
+        "Option 2": "Top-down approach",
+        "Question": "Which is not the right approach of Incremental testing approach?",
+        "Option 3": "Functional incrimination",
+        "Option 4": "Bottom-up approach"
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "User's and developer's end",
+        "Option 2": "Developer's end",
+        "Question": "In which environment we can performed the Beta testing?",
+        "Option 3": "User's end",
+        "Option 4": "None of the above"
+    },
+    {
+        "answerKey": "4",
+        "Option 1": "Test control management techniques",
+        "Option 2": "Test verification techniques",
+        "Question": "What is error guessing in software testing?",
+        "Option 3": "Test execution techniques",
+        "Option 4": "Test case design\/ data management techniques"
+    },
+    {
+        "answerKey": "1",
+        "Option 1": "After the coding phase",
+        "Option 2": "After designing phase",
+        "Question": "After which phase, we can proceed to the white box testing?",
+        "Option 3": "After SRS creation",
+        "Option 4": "After the installation phase"
+    },
+    {
+        "answerKey": "2",
+        "Option 1": "Structural testing",
+        "Option 2": "Behavioral testing",
+        "Question": "Which of the following is not another name of white box testing?",
+        "Option 3": "Glass box testing",
+        "Option 4": "None of the mentioned"
+    },
+    {
+        "answerKey": "2",
+        "Option 1": "Unit, Integration, System, Acceptance",
+        "Option 2": "It is based on the nature of the project",
+        "Question": "The test levels are performed in which of the following order?",
+        "Option 3": "Unit, Integration, Acceptance, System",
+        "Option 4": "Unit, System, Integration, Acceptance"
+    },
+    {
+        "answerKey": "2",
+        "Option 1": "A human action that produces an incorrect result.",
+        "Option 2": "Its departure from specified behavior",
+        "Question": "Define the term failure?",
+        "Option 3": "Found in the software; the result of an error.",
+        "Option 4": "It is procedure or data definition in a computer database."
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "Regression Testing",
+        "Option 2": "Unit Testing",
+        "Question": "Which of the below testing is executed without documentation and planning is known as",
+        "Option 3": "Adhoc Testing",
+        "Option 4": "None of the above"
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "Unit Testing",
+        "Option 2": "Black-box Testing",
+        "Question": "Which of the below testing is related to Non-functional testing?",
+        "Option 3": "Performance Testing",
+        "Option 4": "None of the above"
+    },
+    {
+        "answerKey": "1",
+        "Option 1": "Boundary value analysis",
+        "Option 2": "Code path analysis",
+        "Question": "Which of the below testing is related to black-box testing?",
+        "Option 3": "Basic path testing",
+        "Option 4": "None of the above"
+    },
+    {
+        "answerKey": "1",
+        "Option 1": "Beta testing",
+        "Option 2": "White-box testing",
+        "Question": "Which of the following testing is also called Acceptance testing?",
+        "Option 3": "Grey box testing",
+        "Option 4": "Alpha testing"
+    },
+    {
+        "answerKey": "2",
+        "Option 1": "Incorrect logical operators or precedence",
+        "Option 2": "Non-existent loop termination",
+        "Question": "Which of the following statement is used to discover errors in the test case?",
+        "Option 3": "Comparison of different data types",
+        "Option 4": "All of the above"
+    },
+    {
+        "answerKey": "4",
+        "Option 1": "The faults have been fixed",
+        "Option 2": "All the tests run",
+        "Question": "When we have to stop the testing?",
+        "Option 3": "The time completed",
+        "Option 4": "The risk is resolved"
+    },
+    {
+        "answerKey": "1",
+        "Option 1": "Software requirements specification",
+        "Option 2": "Software respond system",
+        "Question": "What is the full form of SRS?",
+        "Option 3": "System responds software",
+        "Option 4": "System requirements specification"
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "Measuring and analyzing results",
+        "Option 2": "Evaluating exit criteria and reporting",
+        "Question": "What is the main task of test planning?",
+        "Option 3": "Determining the test approach",
+        "Option 4": "Preparing the test specification"
+    },
+    {
+        "answerKey": "2",
+        "Option 1": "Stress testing",
+        "Option 2": "Mutation testing",
+        "Question": "Which of the following testing is refers to as a fault-based testing technique?",
+        "Option 3": "Beta testing",
+        "Option 4": "Unit testing"
+    },
+    {
+        "answerKey": "1",
+        "Option 1": "A black box testing technique appropriate to all levels of testing.",
+        "Option 2": "A white box testing technique appropriate for component testing.",
+        "Question": "Which of the below statement is true about the Equivalence Partitioning technique?",
+        "Option 3": "The black box testing technique is used only by developers.",
+        "Option 4": "A black box testing technique that can only be used during system testing."
+    },
+    {
+        "answerKey": "2",
+        "Option 1": "Stress testing",
+        "Option 2": "Mutation testing",
+        "Question": "Which of the following testing is refers to as a fault-based testing technique?",
+        "Option 3": "Beta testing",
+        "Option 4": "Unit testing"
+    },
+    {
+        "answerKey": "1",
+        "Option 1": "testing",
+        "Option 2": "helpline support",
+        "Question": "Select which one is not an  External failure costs?",
+        "Option 3": "warranty work",
+        "Option 4": "complaint resolution"
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "design",
+        "Option 2": "execution",
+        "Question": "Faults are found most cost-effectively in which test activity?",
+        "Option 3": "planning",
+        "Option 4": "Check Exit criteria completion"
+    }
+]
