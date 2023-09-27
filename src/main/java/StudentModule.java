@@ -14,7 +14,7 @@ public class StudentModule {
 
         Scanner scanner = new Scanner(System.in);
 
-        int correctAnswers = 0;
+        int totalScore = 0;
         String fileName = "src/main/resources/quiz.json";
 
         JSONParser parser = new JSONParser();
@@ -25,6 +25,7 @@ public class StudentModule {
         char ch = scanner.next().charAt(0);
 
         while (ch == 's') {
+            int correctAnswers = 0;
             for (int i = 1; i <= 10; i++) {
                 Random random = new Random();
                 int questionIndex = random.nextInt(jsonArray.size());
@@ -50,6 +51,7 @@ public class StudentModule {
                     correctAnswers++;
                 }
             }
+            totalScore += correctAnswers;
 
             if (correctAnswers >= 8) {
                 System.out.println("Excellent! You have got"+" "+ correctAnswers+" "+"out of 10");
@@ -67,6 +69,9 @@ public class StudentModule {
             while (ch != 's' && ch != 'q') {
                 System.out.println("\nPlease enter a valid input (s or q):");
                 ch = scanner.next().charAt(0);
+            }
+            if (ch == 's') {
+                totalScore = 0;
             }
 
             if (ch == 'q') {
