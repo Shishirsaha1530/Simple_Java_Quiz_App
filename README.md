@@ -54,7 +54,6 @@ Open the folder on Intellij and run the UserLogin.java file to run the project.
 ## Video Documentation
 
 --Admin Module
-[Admin Module Upload.webm](https://github.com/Shishirsaha1530/Simple_Java_Quiz_App/assets/75736994/86d4a03f-c924-4f33-a426-46b8a7889764)
 
 [Admin Module Upload.webm](https://github.com/Shishirsaha1530/Simple_Java_Quiz_App/assets/75736994/86d4a03f-c924-4f33-a426-46b8a7889764)
 
