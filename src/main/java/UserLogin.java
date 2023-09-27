@@ -32,10 +32,10 @@ public class UserLogin {
         JSONObject jsonstudentLogin = (JSONObject) jsonArray.get(1);
         String userNameStudent = (String) jsonstudentLogin.get("username");
         String userPassStudent = (String) jsonstudentLogin.get("password");
-
+        
 
         if (userNameAdmin.equals(userName) && userPassAdmin.equals(userPassword) ) {
-            System.out.println("Welcome to Admin Module! Add Questions");
+            System.out.println("Welcome admin! Please create new questions in the question bank.");
             QuizAddBYAdmin.QuizAddByAdmin(args);
         }
         else if (userNameStudent.equals(userName) && userPassStudent.equals(userPassword)) {

@@ -334,5 +334,37 @@
         "Question": "Faults are found most cost-effectively in which test activity?",
         "Option 3": "planning",
         "Option 4": "Check Exit criteria completion"
+    },
+    {
+        "answerKey": "4",
+        "Option 1": "failure",
+        "Option 2": "error",
+        "Question": "Identify the term which is not related to testing?",
+        "Option 3": "Test case",
+        "Option 4": "Test Bot"
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "Beta Testing",
+        "Option 2": "Unit Testing",
+        "Question": "Identify the fault-based testing technique.",
+        "Option 3": "Mutation Testing",
+        "Option 4": "Stress Testing"
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "Users",
+        "Option 2": "Customers",
+        "Question": "By whom is unit testing done?",
+        "Option 3": "Developers",
+        "Option 4": "None"
+    },
+    {
+        "answerKey": "3",
+        "Option 1": "Code Walkthrough",
+        "Option 2": "Code Inspection",
+        "Question": "Which of the following are types of code review?",
+        "Option 3": "Both A and B",
+        "Option 4": "None"
     }
 ]
