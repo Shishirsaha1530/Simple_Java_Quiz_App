@@ -37,7 +37,8 @@ This Java Quiz App has been built for SQA learners who can participate in the SQ
 
 ## Tools Used
 
-- Intellig
+- Intellij
+- VS Code
 - Jdk 11
 
 
@@ -56,6 +57,14 @@ Open the folder on Intellij and run the UserLogin.java file to run the project.
 
 - Admin Module
 
-[Admin Module Upload.webm](https://github.com/Shishirsaha1530/Simple_Java_Quiz_App/assets/75736994/86d4a03f-c924-4f33-a426-46b8a7889764)
+[AdminModule.webm](https://github.com/Shishirsaha1530/Simple_Java_Quiz_App/assets/75736994/03e1ca54-0ac9-4353-9176-e806c20f2b6d)
+
+- Student Module
+ 
+[StudentModule.webm](https://github.com/Shishirsaha1530/Simple_Java_Quiz_App/assets/75736994/24a648ed-46b7-4865-9095-ba03847a2c1c)
+
+- Invalid Login
+  
+[invalidLogin.webm](https://github.com/Shishirsaha1530/Simple_Java_Quiz_App/assets/75736994/fbb14b44-1299-4f35-bfe1-7b346d256d5d)
 
 
