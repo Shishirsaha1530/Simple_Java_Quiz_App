@@ -366,5 +366,21 @@
         "Question": "Which of the following are types of code review?",
         "Option 3": "Both A and B",
         "Option 4": "None"
+    },
+    {
+        "answerKey": "4",
+        "Option 1": "Statement Testing",
+        "Option 2": "Decision Testing",
+        "Question": "Which of the following is\/are White box techniques?",
+        "Option 3": "Condition Testing",
+        "Option 4": "All of the mentioned"
+    },
+    {
+        "answerKey": "2",
+        "Option 1": "Statement Testing",
+        "Option 2": "State Transition Testing",
+        "Question": "Identify the incorrect white box technique.",
+        "Option 3": "path Testing",
+        "Option 4": "Data Flow Testing"
     }
 ]
