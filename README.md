@@ -37,7 +37,8 @@ This Java Quiz App has been built for SQA learners who can participate in the SQ
 
 ## Tools Used
 
-- Intellig
+- Intellij
+- VS Code
 - Jdk 11
 
 
